@@ -1,0 +1,47 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Logs
+logs
+*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Build output
+dist/
+build/
+tmp/
+temp/
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Misc
+*.tgz
+*.swp
+*.bak
+
+# TypeScript
+*.tsbuildinfo
