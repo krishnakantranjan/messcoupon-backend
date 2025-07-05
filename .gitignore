@@ -5,7 +5,7 @@ yarn-debug.log*
 yarn-error.log*
 package-lock.json
 yarn.lock
-DS_Store
+.DS_Store
 
 # Logs
 logs
@@ -16,7 +16,7 @@ pids
 *.pid.lock
 
 # OS
-.DS_Store
+
 Thumbs.db
 
 # Environment variables
