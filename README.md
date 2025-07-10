@@ -8,3 +8,15 @@
 - Create a database and connect the database to our app
 - Create a user model
 - Create a POST/signup api and add user to database
+
+
+
+
+
+## Routes
+/signup
+/login
+/profile/view
+/profile/update
+/profile/password/update
+/transactionHistory
